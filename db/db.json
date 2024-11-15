@@ -1,0 +1,117 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 2,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 3,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 4,
+        "tipo": "Salame"
+      },
+      {
+        "id": 5,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 5,
+        "tipo": "Salada"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Em produção"
+    },
+    {
+      "id": "3",
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "id": "464746",
+      "nome": "Juan Costa",
+      "pao": "3 Queijos",
+      "carne": "Maminha",
+      "opcionais": [
+        "Tomate",
+        "Cheddar",
+        "Salada"
+      ],
+      "status": "Em produção"
+    },
+    {
+      "id": "195977",
+      "nome": "Juan Costa",
+      "pao": "3 Queijos",
+      "carne": "Maminha",
+      "opcionais": [
+        "Tomate",
+        "Cheddar",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "251923",
+      "nome": "Teo",
+      "pao": "3 Queijos",
+      "carne": "Picanha",
+      "opcionais": [
+        "Tomate",
+        "Cheddar",
+        "Cebola roxa",
+        "Bacon",
+        "Salame",
+        "Salada"
+      ],
+      "status": "Em produção"
+    }
+  ]
+}
